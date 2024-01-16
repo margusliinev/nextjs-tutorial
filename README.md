@@ -1,5 +1,21 @@
-## Next.js App Router Course - Starter
+# NextJS Tutorial
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+## Description
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+This is a repository for the official NextJS tutorial project.
+
+## Technologies
+
+-   Typescript
+-   NextJS
+-   Tailwind
+-   NextAuth
+-   Vercel PostgreSQL
+
+## Features
+
+1. Authentication (protected dashboard)
+2. Create, Read, Update, Delete Invoices
+3. Beautiful UI with Tailwind
+4. Static & Dynamic rendering
+5. Working with forms using Server Actions
